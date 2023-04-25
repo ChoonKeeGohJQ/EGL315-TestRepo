@@ -29,3 +29,16 @@ nah waint no way
 `dudo rappy-combig`
 
 ![breh](picture/wawa-cat.gif)
+
+# blog diegram
+
+```mermaid
+graph LR
+
+A[asian] --> B[chopstick]
+B --> C[rice]
+D[small eye] --> A
+A --> D
+E[farmer] --> A
+E --> C
+```+
